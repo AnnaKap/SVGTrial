@@ -7,7 +7,7 @@
     "build": "webpack --config webpack.config.js",
     "start": "nodemon --exec node server.js",
     "build-client-watch": "webpack --mode=development -w",
-    "start-dev": "NODE_ENV='development' npm run build-client-watch & npm start",
+    "dev": "NODE_ENV='development' npm run build-client-watch & npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
