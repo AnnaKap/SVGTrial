@@ -6,6 +6,6 @@ app.use(express.json())
 app.use(express.urlencoded({extended: true}))
 
 
-app.use(express.static('public'))
+app.use(express.static('docs'))
 
 app.listen(3000,  () => console.log("listening on port 3000!"));
