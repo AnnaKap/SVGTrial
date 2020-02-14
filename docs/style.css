@@ -25,3 +25,11 @@ svg ellipse{
 svg:hover ellipse{
   ry: 10;
 }
+.title {
+  position: absolute;
+  top: -15vh;
+  left: 41vw;
+  font-family: Arial, Helvetica, sans-serif;
+  color:#f06;
+  font-size: 20px;
+}
