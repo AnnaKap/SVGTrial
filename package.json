@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.1",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "svg.js": "^2.7.1",
